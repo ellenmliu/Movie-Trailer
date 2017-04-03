@@ -8,7 +8,7 @@ are stored in the **same** folder.
 
 ## Media.py
 This file contains the Movie class that is used to create instances of movies
-used in 'entertainment_center.py'
+used in `entertainment_center.py`
 
 ## Entertainment_center.py
 This file contains the list of instances of movies and stored in a list. It
