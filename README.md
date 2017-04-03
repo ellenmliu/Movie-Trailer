@@ -12,7 +12,7 @@ used in 'entertainment_center.py'
 
 ## Entertainment_center.py
 This file contains the list of instances of movies and stored in a list. It
-also calls the method in `fresh_tomatoes.p` to pull up the website and
+also calls the method in `fresh_tomatoes.py` to pull up the website and
 displays the list of movies.
 
 ## Fresh_tomatoes.py
