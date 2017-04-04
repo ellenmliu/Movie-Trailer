@@ -20,4 +20,4 @@ This file generates the HTML and CSS portion of the site. It controls the
 layout and how the trailers are shown.
 
 ## To use
-Run `media.py` in a python IDE. The website should display
+Run `entertainment_center.py` in a python IDE. The website should display
