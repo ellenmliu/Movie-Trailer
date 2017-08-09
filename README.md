@@ -1,4 +1,4 @@
-# `README` for Movie Trailer Project
+# Movie Trailer Project
 
 Author: Ellen Liu
 Last Edit: 4/2/2017
